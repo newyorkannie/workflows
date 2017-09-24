@@ -4,10 +4,13 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/planetoftheweb/workflows.git"
   },
   "author": "Ray Villalobos",
-  "dependencies": {
-    "gulp-coffee": "^2.3.4"
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^2.2.14"
+    "gulp-coffee": "^2.3.4",
+    "gulp-concat": "^2.6.1"
   }
 }
